@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=pdx2HjFRaJY&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr&index=3
+
+npm init --yes
+npm i --save-dev jest
+
+// in package.json
+  "scripts": {
+    "test": "jest"
+    // "watch": "jest --watch *.js"
+    // npm run watch - will run tests every time we save changes to .js file
+  },
+
