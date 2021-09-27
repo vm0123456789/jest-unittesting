@@ -18,3 +18,5 @@ const orderTotal = (order) => {
 
 result = orderTotal(someOrder);
 console.log(result);
+
+module.exports = orderTotal;
